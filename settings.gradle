@@ -1,0 +1,7 @@
+include 'APIGateway'
+include 'config'
+include 'eureka'
+include 'product-app'
+include 'books'
+include 'order'
+include 'payment'
